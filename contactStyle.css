@@ -1,0 +1,63 @@
+	#holder{
+		width:780px;
+		margin-left:50px;
+		display: inline-block;
+		vertical-align: top;
+	}
+		table{
+			border:2px solid black;
+		}
+		table th{
+			width:120px;
+			text-align: left;
+		}
+		#formBox{
+			vertical-align: top;
+			display: inline-block;
+			width:350px;
+			margin-left: 20px;
+		}
+		#formBox h1{
+			padding:10px 20px 10px 0px;
+			border-bottom: 1px solid black;
+			margin-bottom: 10px;
+		}
+		#desc{
+			margin-bottom: 15px;
+			text-align: top;
+		}
+		input{
+			display: inline-block;
+			margin-top: 
+			vertical-align: top;
+			width:200px;
+		}
+			input text{
+				width:300px;
+				align: right;
+			}
+			#btn{
+				padding:5px 10px;
+				border-radius: 5px;
+			}
+	#contactCards{
+		display: inline-block;
+		vertical-align: top;
+		width:350px;
+		margin-left: 20px;
+	}
+		.cardFront{
+			width:300px;
+			height:175px;
+			background:silver;
+			margin: 5px;
+			padding:10px;
+		}
+		.cardBack{
+			width:300px;
+			height:175px;
+			background:silver;
+			margin: 5px;
+			padding:10px;
+			display:none;
+		}		
